@@ -1,0 +1,23 @@
+.banner {
+    height: 50vh;
+    position: relative;
+    background: url("../images/malibu-home.jpg") center center;
+}
+
+.banner_info {
+    /* background-color: black; */
+    color: black;
+    padding: 25vh 50px 40px 50px;
+    width: 300px;
+}
+
+.banner_button {
+    margin-top: 20px;
+}
+
+.banner_searchButton {
+    background-color: white;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    color: lightcoral !important;
+}
